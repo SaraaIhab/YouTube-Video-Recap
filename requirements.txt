@@ -1,0 +1,4 @@
+gradio
+youtube-transcript-api
+python-dotenv
+openai
